@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+a.no-underline {
+    text-decoration: none;
+}
+
+.page-header {
+    border-bottom: 1px solid #dedede;
+}
